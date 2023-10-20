@@ -17,6 +17,7 @@ I like playing music, sports. But above all, I love to code!
 # 🚀 Projects
 
 - **Home Server**: Converted an old computer into a server.
+More coming soon...
 
 # 🎓 Education
 
