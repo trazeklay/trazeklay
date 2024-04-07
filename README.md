@@ -3,16 +3,18 @@ I like playing music, sports. But above all, I love to code!
 
 # 🛠️ Tecnical Skills
 
-- **Javascript**: Node.js, Vue.js, React.js
-- **C#**: .Net Framework, WPF
+- **Javascript**: Node.js, Vue.js, React.js, Sveltekit
+- **C#**: .NET Framework, WPF
 - **Python**: Flask
 - **Database**: PostgreSQL, MongoDB
 - **Testing Frameworks**: Robot Framework
 - **Others**: Docker
+- **Java**: Maven
 
 # 💼 Professional Experience
 
 - **Amadeus France**: 3-month internship as a developer. Worked on testing an applcation and creating a Docker image for it.
+- **ArcadSoftware**: 3-month internship as a developer. Worked on creating a CLI tool for a web application.
 
 # 🚀 Projects
 
