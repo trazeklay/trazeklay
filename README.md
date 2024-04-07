@@ -5,11 +5,11 @@ I like playing music, sports. But above all, I love to code!
 
 - **Javascript**: Node.js, Vue.js, React.js, Sveltekit
 - **C#**: .NET Framework, WPF
+- **Java**: Maven
 - **Python**: Flask
 - **Database**: PostgreSQL, MongoDB
 - **Testing Frameworks**: Robot Framework
 - **Others**: Docker
-- **Java**: Maven
 
 # 💼 Professional Experience
 
