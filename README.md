@@ -30,7 +30,8 @@ More coming soon...
 
 # 🎓 Education
 
-- **Ongoing**: 3rd year of Computer Science at IUT Annecy.
+- **BUT**: 3 years of Computer Science at IUT Annecy.
+- **Ongoing**: 1st year of engineering  at CPE Lyon.
 
 # 📧 Contact
 
