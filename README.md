@@ -14,7 +14,8 @@ I like playing music, sports. But above all, I love to code!
 # 💼 Professional Experience
 
 - **Amadeus France**: 3-month internship as a developer. Worked on testing an applcation and creating a Docker image for it.
-- **ArcadSoftware**: 3-month internship as a developer. Worked on creating a CLI tool for a web application.
+- **Arcad Software**: 3-month internship as a developer. Worked on creating a CLI tool for a web application.
+- **Arcad Software**: 3-year apprenticeship as an engineer in development.
 
 # 🚀 Projects
 
@@ -23,6 +24,7 @@ I like playing music, sports. But above all, I love to code!
 ## Ongoing
 
 - **Compose Warehouse**: A github repository & a website that contains docker-compose for applications
+- **TTSNarrator**: An application that reads PDFs to you, and also can translate pdfs.
 
 More coming soon...
 
