@@ -1,4 +1,4 @@
-Hey! I'm a 20 years old french student in my third year of Bachelor of Technology at the IUT of Annecy.
+Hey! I'm a 20 years old french student in my second year of Apprenticeship as a Software Development Engineer at CPE Lyon and Arcad Software.
 I like playing music, sports. But above all, I love to code!
 
 # 🛠️ Tecnical Skills
@@ -8,8 +8,7 @@ I like playing music, sports. But above all, I love to code!
 - **Java**: Maven
 - **Python**: Flask
 - **Database**: PostgreSQL, MongoDB
-- **Testing Frameworks**: Robot Framework
-- **Others**: Docker
+- **Others**: Docker, Linux my beloved
 
 # 💼 Professional Experience
 
@@ -19,19 +18,15 @@ I like playing music, sports. But above all, I love to code!
 
 # 🚀 Projects
 
-- **Home Server**: Converted an old computer into a server.
-
-## Ongoing
-
-- **Compose Warehouse**: A github repository & a website that contains docker-compose for applications
-- **TTSNarrator**: An application that reads PDFs to you, and also can translate pdfs.
+- **Home Lab**: Turn a bunch of old computers, laptops and servers as an corporation like network.
+- **P4WS / P4CLI**: Create a game of Connect4 in rust, hostable on a server
 
 More coming soon...
 
 # 🎓 Education
 
 - **BUT**: 3 years of Computer Science at IUT Annecy.
-- **Ongoing**: 1st year of engineering  at CPE Lyon.
+- **Ongoing**: 2nd year of engineering  at CPE Lyon.
 
 # 📧 Contact
 
